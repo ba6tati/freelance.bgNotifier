@@ -8,3 +8,6 @@ This is not the official program of freelance.bg
 * GUI
 * Premium job support
 * Installer
+
+## Contribution
+Everyone can contribute!
