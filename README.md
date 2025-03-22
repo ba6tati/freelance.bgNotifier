@@ -1,4 +1,4 @@
-# freelance.bg Notifier
+# [DISCONTINUED] freelance.bg Notifier
 Tired of having to refresh to see the new jobs? Well now you can install this program that will run in background and will send you notifications whenever a new job is posted!
 
 ## Disclaimer
